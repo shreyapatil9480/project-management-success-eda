@@ -50,4 +50,14 @@ This project is fully self-contained and ready to run. You can reproduce the ana
 
 ## License
 
+
 This project is released under the MIT License. You are free to use, modify, and distribute it.
+
+## Notes
+This project was created as a demonstration of data analysis and machine learning skills for prospective employers. The synthetic data allows you to test exploratory analysis, visualization, feature engineering, and predictive modeling techniques. Feel free to explore alternative models, add additional analyses, or integrate this work into your own portfolio.
+
+
+
+
+## Notes
+This project was created as a demonstration of data analysis and machine learning skills for prospective employers. The synthetic data allows you to test exploratory analysis, visualization, feature engineering, and predictive modeling techniques. Feel free to explore alternative models, add additional analyses, or integrate this work into your own portfolio.released under the MIT License. You are free to use, modify, and distribute it.
